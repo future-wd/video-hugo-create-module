@@ -1,0 +1,2 @@
+module:
+  replacements: "github.com/future-wd/video-hugo-create-module-image -> ../../video-hugo-create-module-image"
