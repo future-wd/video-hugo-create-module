@@ -1,2 +1,5 @@
-ideas.md
-node_modules
+/node_modules/**
+/resources/**
+/public/**
+.hugo_build.lock
+/todo.md
